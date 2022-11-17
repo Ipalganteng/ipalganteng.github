@@ -1,0 +1,31 @@
+body {
+  min-height: 2000px;
+}
+
+nav {
+  z-index: 1;
+}
+
+section {
+  height: 100vh;
+}
+
+.jumbotron {
+  padding-top: 200px;
+  background-image: url(../image/pexel.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.about {
+  padding-top: 166px;
+}
+
+#contac {
+  padding-top: 150px;
+}
+
+footer {
+  background-color: rgb(39, 39, 39);
+}
